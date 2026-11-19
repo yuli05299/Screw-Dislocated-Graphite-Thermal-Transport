@@ -13,7 +13,7 @@ This repository provides representative atomic structures and simulation input f
 
 Simulation software: GPUMD
 
-Interatomic potential: nep-c.txt
+Interatomic potential: nep-GAP-carbon.txt
 
 See the input files for the simulation parameters and boundary conditions.
 
